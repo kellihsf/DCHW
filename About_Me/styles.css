@@ -1,3 +1,12 @@
 h1 {
-    color: red;
+    color: silver;
 }
+
+h2 {
+    color: whitesmoke;
+}
+
+p, li {
+    color: rgb(255, 206, 47);
+}
+
