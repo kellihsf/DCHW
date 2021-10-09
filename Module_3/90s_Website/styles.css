@@ -1,5 +1,25 @@
 body {
-    background-color: turquoise;
+    background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg");
     text-align: center;
 }
 
+h1 {
+    color: #dadfe1; 
+}
+
+.image {
+    cursor: pointer;
+    max-width: 300px;
+    max-height: 200px;
+    border: none;
+}
+.container {
+    height:300px;
+    width: 300px;
+    margin: auto;
+}
+
+a {
+    font-size: 20px;
+    color: rgb(6, 6, 38);
+}
