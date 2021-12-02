@@ -1,7 +1,12 @@
 body {
-    background-color: rgb(247, 228, 195);
+    background-color: rgb(132, 122, 215, 1);
 }
 
+h1 {
+    text-align: center;
+    font-family: Chakra Petch;
+    background-color: aquamarine;
+}
 div.footer {
     position:absolute;
     bottom: 30px;
@@ -23,6 +28,8 @@ div.Instagram{
 div.lists{
     border: 5px solid seagreen;
     text-align: center;
+    font-family: Courgette;
+    font-weight: bold;
 }
 
 .column {
@@ -39,6 +46,7 @@ div.lists{
   }
 
   .column2{
-      float: right;
-      color:coral;
+      float: center;
+      color:rgb(14, 242, 227);
+      
   }

@@ -1,11 +1,12 @@
 body {
-    background-image: url("https://cdn.logojoy.com/wp-content/uploads/2018/07/17142754/AdobeStock_104806545-768x437.png"); 
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/002/070/896/small/abstract-90s-retro-style-technology-futuristic-concept-grid-perspective-on-black-background-vector.jpg"); 
     text-align: center;
 }
 
 h1 {
     animation: flicker 1.5s infinite alternate;  
     font-size: 40px;   
+    font-family: Audiowide;
   }
 
 @keyframes flicker {
@@ -62,4 +63,15 @@ h1 {
   .column2{
       float: right;
       color:coral;
+  }
+
+  P {
+    font-family: Audiowide;
+    color:#fff6ff;
+    font-weight: bold;
+    font-size: 24px;
+  }
+
+  .footer {
+    font-family: Permanent Marker;
   }
